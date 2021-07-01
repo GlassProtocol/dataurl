@@ -1,4 +1,4 @@
-# Data URL Schemes for Go [![wercker status](https://app.wercker.com/status/6f9a2e144dfcc59e862c52459b452928/s "wercker status")](https://app.wercker.com/project/bykey/6f9a2e144dfcc59e862c52459b452928) [![GoDoc](https://godoc.org/github.com/vincent-petithory/dataurl?status.png)](https://godoc.org/github.com/vincent-petithory/dataurl)
+Forked from @vincent-petithory
 
 This package parses and generates Data URL Schemes for the Go language, according to [RFC 2397](http://tools.ietf.org/html/rfc2397).
 
@@ -13,7 +13,7 @@ Common use-cases:
 
 Install the package with:
 ~~~
-go get github.com/vincent-petithory/dataurl
+go get github.com/GlassProtocol/dataurl
 ~~~
 
 ## Usage
@@ -22,7 +22,7 @@ go get github.com/vincent-petithory/dataurl
 package main
 
 import (
-	"github.com/vincent-petithory/dataurl"
+	"github.com/GlassProtocol/dataurl"
 	"fmt"
 )
 
